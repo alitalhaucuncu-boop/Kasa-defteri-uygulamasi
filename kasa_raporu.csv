@@ -1,0 +1,11 @@
+Islem No;Tur;Aciklama;KDV Haric Tutar;KDV Orani;KDV Tutari;KDV Dahil Toplam
+1;Gelir;günlük satış;1000.0;%20;200.0;1200.0
+2;Gider;kira;100000.0;%10;10000.0;110000.0
+3;Gelir;satış;1.0;%10;0.1;1.1
+4;Gelir;satış;200000.0;%20;40000.0;240000.0
+
+--- GUN SONU OZETI ---
+Toplam Gelir;241201.1 TL
+Toplam Gider;110000.0 TL
+Net Kasa Bakiyesi;131201.1 TL
+Durum;Çok İyi (Günlük kâr hedefi aşıldı)
